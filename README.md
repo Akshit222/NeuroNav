@@ -286,28 +286,3 @@ On first use, the eye tracking module will **automatically download** the MediaP
 
 ---
 
-##  Contributing
-
-Pull requests are welcome. For major changes, please open an issue first.
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-##  Acknowledgements
-
-- [MediaPipe](https://mediapipe.dev/) — face landmark detection
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js) — browser-based face recognition
-- [Google Gemini](https://deepmind.google/technologies/gemini/) — conversational AI
-- [Three.js](https://threejs.org/) — 3D virtual environment
-- [TensorFlow.js](https://www.tensorflow.org/js) — browser sign-language recognition
-
----
-
-<div align="center">
-Built with for the disability community
-</div>
