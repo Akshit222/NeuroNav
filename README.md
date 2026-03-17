@@ -268,7 +268,7 @@ On first use, the eye tracking module will **automatically download** the MediaP
    - **Right eye blink** (with left eye open) = left-click
    - Both eyes closed simultaneously = ignored
 
-> **Requirements**: A standard USB or built-in webcam. Good lighting recommended.
+> **Requirements**: A standard USB or built-in webcam. Good lighting is recommended.
 
 ---
 
